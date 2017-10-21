@@ -1,0 +1,37 @@
+{
+  "name": "boostrap-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "devDependencies": {
+    "bootstrap": "^4.0.0-beta.2",
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-imagemin": "^3.4.0",
+    "gulp-include": "^2.3.1",
+    "gulp-notify": "^3.0.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.1",
+    "gulp-uglify": "^3.0.0",
+    "gulp-watch": "^4.3.11",
+    "imagemin-pngquant": "^5.0.1",
+    "include": "^1.1.0",
+    "jquery": "^3.2.1",
+    "localhost": "^0.2.2",
+    "popper.js": "^1.12.5"
+  }
+}
